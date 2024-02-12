@@ -1,4 +1,4 @@
-# Flag Format - H4ckK4P(<PlainText>)
+# Flag Format - HK4P{<PlainText>}
 
 from TheSpy import secret
 
